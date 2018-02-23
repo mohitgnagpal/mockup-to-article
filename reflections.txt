@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+I learned about parent and child relationship and its uses and advantages.
+
+* What has been easy?
+
+The way the content has been placed in the classroom is very systematic hence to learn is not a tedius task.
+
+* What has been difficult?
+
+Difficult to remember all the tags, need to take help from the internet.  
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I divided the project into parts(in this case different <p> tags) and focused on each part rather than bothering about the whole problem.
